@@ -17,4 +17,6 @@
   <a href="https://henkiz.com">Website</a>
   •
   <a href="https://github.com/henkiz/community/discussions">Discussions</a>
+  •
+  <a href="https://github.com/henkiz/community/issues/new/choose">Issues</a>
 </div>
