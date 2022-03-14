@@ -4,10 +4,10 @@
   <a href="https://henkiz.com">
     <img src="https://assets.henkiz.com/images/logomark/circle-light.svg" height="112" alt="Henkiz Logomark">
   </a>
-  <h2>Feedback</h2>
+  <h2>Community</h2>
 </div>
 
-<p align="center">Public feedback discussions 💬</p>
+<p align="center">Public community discussions 💬</p>
 
 <div align="center">
   <a href="https://figma.com/@henkiz">Figma</a>
@@ -16,5 +16,5 @@
   •
   <a href="https://henkiz.com">Website</a>
   •
-  <a href="https://github.com/cutterflow/feedback/discussions">Discussions</a>
+  <a href="https://github.com/henkiz/community/discussions">Discussions</a>
 </div>
